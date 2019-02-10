@@ -12,3 +12,6 @@ In the data folder, feature vector contains 8000 rows and 11 columns where 8000 
 
 ![ldaqda](https://user-images.githubusercontent.com/32570071/52538355-f1a22300-2d71-11e9-9991-2e94ef3f2ec1.png)
 
+For the cross vaildation, the below block diagram has been used to split the training Data. 
+
+![crossvalidation](https://user-images.githubusercontent.com/32570071/52538380-2a41fc80-2d72-11e9-81ee-7ae4676ba5ad.png)
