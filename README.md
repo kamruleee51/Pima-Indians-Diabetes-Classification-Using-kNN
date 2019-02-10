@@ -1,4 +1,4 @@
-# Pima-Indians-Diabetes-Classification-Using-kNN
+# Pima-Indians-Diabetes-Classification-Using-LDA-QDA-and-kNN
 
 ## Written by-
 ### Md. Kamrul Hasan 
